@@ -11,7 +11,7 @@ body{
 	width: 1000px;
 	height: 800px;
 	margin: 100px auto;
-	background: #fff;
+	background-color:white ;
 	position: relative;
 }
 .container h1{
@@ -30,10 +30,10 @@ h2{
 	color: black;
 }
 h3{
-	font-size: 100pt;
+	font-size: 150pt;
 	color: white;
 		position: absolute;
-		top: 25%;
+		top: 12%;
 		left: 50%;
 		transform: translate(-50%, -50%);
 	  } 
