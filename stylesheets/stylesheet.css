@@ -11,7 +11,7 @@ body{
 	width: 1000px;
 	height: 800px;
 	margin: 100px auto;
-	background-color:white ;
+	background-color:darkcyan ;
 	position: relative;
 }
 .container h1{
@@ -25,6 +25,11 @@ body{
 	top: 30%;
 	transform: translateY(-50%);
 }
+
+p{
+ font-size: 35px;
+}
+
 h2{
 	font-size: 40pt;
 	color: black;
@@ -37,5 +42,16 @@ h3{
 		left: 50%;
 		transform: translate(-50%, -50%);
 	  } 
+	  
+.borderexample {
+ border-style:solid;
+ border-color:#287EC7;
 }
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
 
